@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Md Ali
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Computer Scinece Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Illinois Institute of Technology
+  url: https://www.iit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Performance Computing
+- Systems Security
+- Quantum Computing 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science 
+    institution: Illinois Insititute of Technology
+    year: Currently Pursuing
+  - course: M.S. in Applied Cybersecurity and Digital Forensics
+    institution: Illinois Institute of Technology
+    year: 2020
+  - course: B.S. in Physics and Applied Mathematics
+    institution: Texas State University 
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,26 +42,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mali54@hawk.iit.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/xXxSpicyBoixXx
+- icon: researchgate  # Alternatively, use `researchgate` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Md_Ali222
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xXxSpicyBoiiixXx
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/md-aliev/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. Computer Science student at [Illinois Institute of Technology](https://www.iit.edu). I am working in the laboratory for [high-performance, experimental systems and architecture (HExSA)](https://github.com/HExSA-Lab), where I am being advised by [Dr. Kyle Hale](https://www.halek.co). My research interests are in high performance computer, quantum computing, and theoretical computer science. My background extends to physics, mathematics, and cybersecurity and this has brought me into a broad range of research intrests in the field of computer science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+В настоящее время я доктор философии студент, изучающий информатику в [Иллинойсском технологическом институте] (https://www.iit.edu). Я работаю в лаборатории [высокопроизводительных экспериментальных систем и архитектуры (HExSA)] (https://github.com/HExSA-Lab), где меня консультирует [Д-р Кайл Хейл] (https://www.halek.co). Мои исследовательские интересы лежат в области высокопроизводительных компьютеров, квантовых вычислений и теоретической информатики. Мой опыт простирается в области физики, математики и кибербезопасности, и это привело меня к широкому кругу научных интересов в области компьютерных наук.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
