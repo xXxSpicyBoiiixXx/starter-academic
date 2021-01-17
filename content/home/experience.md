@@ -38,7 +38,7 @@ experience:
     date_end: '07-2020'
     description: Researched cyber crimes regarding human trafficking and child predators analyzing their methods of encryption and steganography techniques to conduct their criminal activities under the advisement of Mr. Louis McHugh IV. Conducted a mini research project into supply chain attacks, where he conducted a case study into the various methodology that make a supply chain attack successful. This required analyzing a number of major cyber breaches from Equifax, Target, and various ATMs in Eastern Europe.
 
-- title: Graduate Teaching Assisstant
+  - title: Graduate Teaching Assisstant
     company: Illinois Institute of Technology
     company_url: 'https://www.iit.edu/itm'
     location: Chicago, Illinois
