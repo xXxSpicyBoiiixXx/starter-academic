@@ -56,7 +56,7 @@ experience:
     
   - title: Undergraduate Research Fellow
     company: Early Universe, Coosmology, and Strings
-    company_url: ''
+    company_url: 'https://www.natureindex.com/institution-outputs/united-states-of-america-usa/early-universe-cosmology-and-strings-group-eucos-baylor-university/5bdb3c92119bee7e0268b336'
     location: ''
     date_start: '2016-08-01'
     date_end: '2018-08-01'
