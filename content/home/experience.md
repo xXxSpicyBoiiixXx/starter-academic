@@ -55,7 +55,7 @@ experience:
     description: Mini research project utilizing C++ to theoretically calculate and model the decay of cube satellites in the atmosphere. This resulted in constructing a GUI interface to make the program user friendly. This included having weekly meetings to discuss about the project and current astrophysics phenomenons that may have any affect on the cube satellites.
     
   - title: Undergraduate Research Fellow
-    company: EUCOS
+    company: Early Universe, Coosmology, and Strings
     company_url: ''
     location: ''
     date_start: '2016-08-01'
