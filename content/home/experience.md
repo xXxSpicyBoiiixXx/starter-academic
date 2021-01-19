@@ -55,7 +55,7 @@ experience:
     description: Mini research project utilizing C++ to theoretically calculate and model the decay of cube satellites in the atmosphere. This resulted in constructing a GUI interface to make the program user friendly. This included having weekly meetings to discuss about the project and current astrophysics phenomenons that may have any affect on the cube satellites.
     
   - title: Undergraduate Research Fellow
-    company: Early Universe, Coosmology, and Strings
+    company: Early Universe, Cosmology, and Strings
     company_url: 'https://www.natureindex.com/institution-outputs/united-states-of-america-usa/early-universe-cosmology-and-strings-group-eucos-baylor-university/5bdb3c92119bee7e0268b336'
     location: ''
     date_start: '2016-08-01'
