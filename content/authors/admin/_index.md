@@ -18,7 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- High Performance Computing
+- Operating Systems 
+- Programming Languages
+- Theoretical Computer Science
 - Systems Security
 - Quantum Computing 
 
@@ -70,8 +72,9 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Ph.D. Computer Science student at [Illinois Institute of Technology](https://www.iit.edu). I am working in the laboratory for [high-performance, experimental systems and architecture (HExSA)](https://github.com/HExSA-Lab), where I am being advised by [Dr. Kyle Hale](https://www.halek.co). My research interests are in high performance computing, quantum computing, and theoretical computer science. My background extends to physics, mathematics, and cybersecurity and this has brought me into a broad range of research interests in the field of computer science. I am fluent in English, Russian, Bengali, and I am currently learning Chinese and Korean. 
+I am currently a Ph.D. Computer Science student at [Illinois Institute of Technology](https://www.iit.edu). I am working in the laboratory for [high-performance, experimental systems and architecture (HExSA)](https://github.com/HExSA-Lab) in coalescent computing, where I am being advised by [Dr. Kyle Hale](https://www.halek.co). In addtion, I am working under [Dr. Stefan Muller](http://cs.iit.edu/~smuller/), where I am working on worst case execution times for programming languages. My research interests are in operating systems, programming languages, quantum computing, and theoretical computer science. My background extends to physics, mathematics, and cybersecurity and this has brought me into a broad range of research interests in the field of computer science. I am fluent in English, Russian, Bengali, and I am currently learning Chinese.
 
-В настоящее время я доктор философии студент, изучающий информатику в [Иллинойсском Технологическом Институте](https://www.iit.edu). Я работаю в лаборатории [высокопроизводительных экспериментальных систем и архитектуры (HExSA)](https://github.com/HExSA-Lab), где меня консультирует [Д-р Кайл Хейл](https://www.halek.co). Мои исследовательские интересы лежат в области высокопроизводительных компьютеров, квантовых вычислений и теоретической информатики. Мой опыт простирается в области физики, математики и кибербезопасности, и это привело меня к широкому кругу научных интересов в области компьютерных наук. Я свободно говорю на английском, русском и бенгали, а в настоящее время изучаю китайский и корейский.
+I recieved my M.S. in Applied Cybersecurity and Digital Forensics from [Illinois Institute of Technology](https://www.iit.edu) in 2020 under the advisement of [Dr. Louis McHugh](https://www.linkedin.com/in/louismchugh/). During my undergraduate career, I recieved two B.S. degrees in Phyiscs and Applied Mathematics from [Texas State University](https://www.txstate.edu) in 2019 where I worked under [Dr. Blagoy Rangelov](https://blagoyrangelov.com) and [Dr. Gerald Cleaver](https://en.wikipedia.org/wiki/Gerald_B._Cleaver).   
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
