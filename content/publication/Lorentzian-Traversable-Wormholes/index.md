@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.mdpi.com/2218-1997/6/1/11/pdf'
+url_pdf: 'https://www.alihmd.com/publication/Lorentzian-Traversable-Wormholes/universe-06-00011-v2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -83,14 +83,3 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
----
-
-{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
