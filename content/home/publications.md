@@ -6,6 +6,8 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+active: true 
+
 # Order that this section appears on the page.
 weight: 90
 
@@ -27,7 +29,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
