@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Research Aide 
+    company: Argonne National Laboratory
+    company_url: https://www.anl.gov
+    location: Lemont, Illinois
+    date_start: '2022-05-01'
+    date_end: ''
+    description: Working under Dr. Yuri Alexeev to find a optimal tensor contraction on Argonne-developed tensor network quantum simulator QTensor. This invovles in developing a parallel optimizer written in Julia to find an optimal tensor contraction sequenes for large problems requiring running on Polaris and Aurora supercomputers. The overall goal is to find the optimal tensor contraction sequences for quantum supremacy Sycamore and QAOA quantum circuits to demonstrate quantum advantage. 
   - title: Research Assistant
     company: Illinois Institute of Technology
     company_url: 'https://www.iit.edu/computer-science'
