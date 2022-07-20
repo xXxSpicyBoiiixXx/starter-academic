@@ -38,7 +38,7 @@ experience:
     description: Currently, researching in the HExSA labs at Illinois Institute of Technology under the advisement of Dr. Kyle Hale. In the HExSA lab, the various reserach projects that I am invovled in are in regards to distributed computing, operating systems, and programming languages. I also work under Dr. Stefan Muller, where we utilized WCET (Worst Case Execution Time) such as OTAWA and RAML that analyzed ARM binaries with OCaml programs that effectively generates an approximation of code execution timing in higher level languages such as Python, C++, etc. This provides a cost effective way of looking at higher level lanuage's computation times without having to actually run them or have possible errors that may arise to be looked at manually that may end up saving costs. In addition, this included verfication of sequential and concurrent programs. This automation are comparable to manually checking each case inside OCaml programs and we are currently working on explaing this work for various programs. I am also running simulations using the Sniper platform for dynamic enivornments with remote cores as well as in edge computing cases where I am currently leveraging programming language techniques and using custom made virtual machines as a test bay to simulate a highly dynamic network. This consits of utilizing a custom interpreter with a stack machine to be able to calculate the cost in a real world scenario.  
   - title: Math and Science Instructor
     company: Brightmont Academy
-    company_url: 
+    company_url: 'https://www.brightmontacademy.com'
     location: Northfield, Illinois 
     date_start: '2021-01-01'
     date_end: '2022-03-01'
