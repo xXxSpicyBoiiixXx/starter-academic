@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true 
-
+title: Certifications
 weight: 100
 
 date_format: Jan 2006
@@ -30,7 +30,7 @@ item:
       certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/HMW9NLC9UZBT'
       date_start: '2020-07-07'
       date_end: ''
-      description: 
+      description: Online course for non-credit offered through IBM on Coursera that focused on various cybersecurity tools and launching/defending cyber attacks.
     - organization: Coursera 
       organization_url: 'https://www.coursera.org'
       title: The Introduction to Quantum Computing
@@ -38,5 +38,5 @@ item:
       certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/CDZ7DYMG9KVY'
       date_start: '2020-06-23'
       date_end: ''
-      description:
+      description: Online course for non-credit offered through Saint Petersburg State University on Coursera that focused in the theory of quanutm computing as well as the utilization of IBM's qiskit software.
 ---
