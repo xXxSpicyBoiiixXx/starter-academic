@@ -4,7 +4,7 @@ headless: true
 
 weight: 100
 
-data_format: Jan 2006
+date_format: Jan 2006
 
 item:
     - organization: CompTIA 
