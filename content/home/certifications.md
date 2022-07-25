@@ -28,11 +28,15 @@ item:
       title: Introduction to Cybersecurity Tools and Cyber Attacks'
       url: ''
       certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/HMW9NLC9UZBT'
+      date_start: '2020-07-07'
+      date_end: ''
       description: 
     - organization: Coursera 
       organization_url: 'https://www.coursera.org'
       title: The Introduction to Quantum Computing
       url: ''
       certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/CDZ7DYMG9KVY'
+      date_start: '2020-06-23'
+      date_end: ''
       description:
 ---
