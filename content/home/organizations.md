@@ -9,10 +9,5 @@ weight: 120
 date_format: Jan 2006
 
 item: 
-    - organization: ACM
-      organization_url: ''
-      title: 
-      url
-
 
 ---
