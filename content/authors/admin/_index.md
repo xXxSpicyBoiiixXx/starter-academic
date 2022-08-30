@@ -6,12 +6,12 @@ title: Md Ali
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Computer Science Student
+role: Cybersecurity Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Illinois Institute of Technology
-  url: https://www.iit.edu/
+- name: Burwood Group, Inc.
+  url: https://www.burwood.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,13 +27,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Computer Science 
+  - course: Doctor of Science in Cybersecurity 
+    institution: Capitol Technology University
+    year: Will Pursue
+  - course: Master of Applied Science in Computer Science 
     institution: Illinois Insititute of Technology
-    year: Currently Pursuing
-  - course: M.S. in Applied Cybersecurity and Digital Forensics
+    year: 2022
+  - course: Master of Science in Applied Cybersecurity and Digital Forensics
     institution: Illinois Institute of Technology
     year: 2020
-  - course: B.S. in Physics and Applied Mathematics
+  - course: Bachelor of Science in Physics and Applied Mathematics
     institution: Texas State University 
     year: 2019
 
