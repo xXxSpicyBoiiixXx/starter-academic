@@ -28,21 +28,21 @@ experience:
     location: Chicago, Illinois
     date_start: '2022-08-08'
     date_end: ''
-    description:  
+    description: Working under Dr. Rich Perez in terms of GRC policy and pentesting engagements that range from healthcare, educational systems, and financial institutions. This includes to consult, intergrate, and operate from a cybersecurity standpoint. 
   - title: Research Aide 
     company: Argonne National Laboratory
     company_url: https://www.anl.gov
     location: Lemont, Illinois
     date_start: '2022-05-01'
     date_end: '2022-08-18'
-    description: Working under Dr. Yuri Alexeev to find a optimal tensor contraction on Argonne-developed tensor network quantum simulator QTensor. This invovles in developing a parallel optimizer written in Julia to find an optimal tensor contraction sequenes for large problems requiring running on Polaris and Aurora supercomputers. The overall goal is to find the optimal tensor contraction sequences for quantum supremacy Sycamore and QAOA quantum circuits to demonstrate quantum advantage. 
+    description: Worked under Dr. Yuri Alexeev to find a optimal tensor contraction on Argonne-developed tensor network quantum simulator QTensor. This invovles in developing a parallel optimizer written in Julia to find an optimal tensor contraction sequenes for large problems requiring running on Polaris and Aurora supercomputers. The overall goal is to find the optimal tensor contraction sequences for quantum supremacy Sycamore and QAOA quantum circuits to demonstrate quantum advantage. 
   - title: Research Assistant
     company: Illinois Institute of Technology
     company_url: 'https://www.iit.edu/computer-science'
     location: Chicago, Illinois
     date_start: '2020-08-01'
     date_end: '2022-08-01'
-    description: Currently, researching in the HExSA labs at Illinois Institute of Technology under the advisement of Dr. Kyle Hale. In the HExSA lab, the various reserach projects that I am invovled in are in regards to distributed computing, operating systems, and programming languages. I also work under Dr. Stefan Muller, where we utilized WCET (Worst Case Execution Time) such as OTAWA and RAML that analyzed ARM binaries with OCaml programs that effectively generates an approximation of code execution timing in higher level languages such as Python, C++, etc. This provides a cost effective way of looking at higher level lanuage's computation times without having to actually run them or have possible errors that may arise to be looked at manually that may end up saving costs. In addition, this included verfication of sequential and concurrent programs. This automation are comparable to manually checking each case inside OCaml programs and we are currently working on explaing this work for various programs. I am also running simulations using the Sniper platform for dynamic enivornments with remote cores as well as in edge computing cases where I am currently leveraging programming language techniques and using custom made virtual machines as a test bay to simulate a highly dynamic network. This consits of utilizing a custom interpreter with a stack machine to be able to calculate the cost in a real world scenario.  
+    description: Researched in the HExSA labs at Illinois Institute of Technology under the advisement of Dr. Kyle Hale. In the HExSA lab, the various reserach projects that I am invovled in are in regards to distributed computing, operating systems, and programming languages. I also work under Dr. Stefan Muller, where we utilized WCET (Worst Case Execution Time) such as OTAWA and RAML that analyzed ARM binaries with OCaml programs that effectively generates an approximation of code execution timing in higher level languages such as Python, C++, etc. This provides a cost effective way of looking at higher level lanuage's computation times without having to actually run them or have possible errors that may arise to be looked at manually that may end up saving costs. In addition, this included verfication of sequential and concurrent programs. This automation are comparable to manually checking each case inside OCaml programs and we are currently working on explaing this work for various programs. I am also running simulations using the Sniper platform for dynamic enivornments with remote cores as well as in edge computing cases where I am currently leveraging programming language techniques and using custom made virtual machines as a test bay to simulate a highly dynamic network. This consits of utilizing a custom interpreter with a stack machine to be able to calculate the cost in a real world scenario.  
   - title: Math and Science Instructor
     company: Brightmont Academy
     company_url: 'https://www.brightmontacademy.com'

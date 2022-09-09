@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mali54@hawk.iit.edu'
+  link: 'md.ali@burwood.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/xXxSpicyBoixXx
@@ -75,9 +75,10 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Ph.D. Computer Science student at [Illinois Institute of Technology](https://www.iit.edu). I am working in the laboratory for [high-performance, experimental systems and architecture (HExSA)](https://github.com/HExSA-Lab), where I am being advised by [Dr. Kyle Hale](https://www.halek.co) and [Dr. Stefan Muller](http://cs.iit.edu/~smuller/). My main research endeavors is to explore the intersections between operating systems and programming languages.  My research interests are in operating systems, programming languages, quantum computing, and theoretical computer science. My background extends to physics, mathematics, and cybersecurity and this has brought me into a broad range of research interests in the field of computer science. I am fluent in English, Russian, Bengali, and I am currently learning Chinese.
+I am currently a Cybersecurity Consultant at [Burwood Group Inc.](https://burwood.com). Where I utilzied GRC practices and conduct pentesting on various engagements ranging from healthercare, education, and financial institutions. I am fluent in English, Russian, Bengali, and I am currently learning Chinese. I will start my Doctor of Science degree in Cybersecurity in 2023. 
 
-I recieved my M.S. in Applied Cybersecurity and Digital Forensics from [Illinois Institute of Technology](https://www.iit.edu) in 2020 under the advisement of [Dr. Louis McHugh](https://www.linkedin.com/in/louismchugh/). During my undergraduate career, I recieved two B.S. degrees in Phyiscs and Applied Mathematics from [Texas State University](https://www.txstate.edu) in 2019 where I worked under [Dr. Blagoy Rangelov](https://blagoyrangelov.com) and [Dr. Gerald Cleaver](https://en.wikipedia.org/wiki/Gerald_B._Cleaver).   
+
+I will recieve my Masters of Applied Sciences in Computer Science from [Illinois Institute of Technology](https://www.iit.edu), where I am being advised by [Dr. Kyle Hale](https://www.halek.co) and [Dr. Stefan Muller](http://cs.iit.edu/~smuller/). I recieved my Masters of Science in Applied Cybersecurity and Digital Forensics from [Illinois Institute of Technology](https://www.iit.edu) in 2020 under the advisement of [Dr. Louis McHugh](https://www.linkedin.com/in/louismchugh/). During my undergraduate career, I recieved two Bachelor of Science degrees in Phyiscs and Applied Mathematics from [Texas State University](https://www.txstate.edu) in 2019 where I worked under [Dr. Blagoy Rangelov](https://blagoyrangelov.com) and [Dr. Gerald Cleaver](https://en.wikipedia.org/wiki/Gerald_B._Cleaver).   
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
