@@ -27,9 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Science in Cybersecurity 
+  - course: Doctor of Philosophy in Computer Science
     institution: Capitol Technology University
-    year: Will Pursue
+    year: Pursuing
   - course: Master of Applied Science in Computer Science 
     institution: Illinois Insititute of Technology
     year: 2022
@@ -75,10 +75,10 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Cybersecurity Consultant at [Burwood Group Inc.](https://burwood.com) Where I utilzied GRC practices and conduct pentesting on various engagements ranging from healthcare, educational systems, and financial institutions. I am fluent in English, Russian, Bengali, and I am currently learning Chinese. I will start my Doctor of Science degree in Cybersecurity in 2023. 
+I am currently a Cybersecurity Consultant at [Burwood Group Inc.](https://burwood.com) where I utilzie GRC practices and conduct pentesting on various engagements ranging from healthcare, educational systems, and financial institutions. I am also a part-time Cybersecurity instructor at [ThriveDX](https://thrivedx.com) teaching on concepts of offensive security, defensive operations, and GRC best practices. In my free time I love playing instruments and learning languages. I play violin, bass guitar, and piano while with languages I am currently learning Chinese and fluent in English, Russian, and Bengali. 
 
 
-I will recieve my Masters of Applied Sciences in Computer Science from [Illinois Institute of Technology](https://www.iit.edu), where I am being advised by [Dr. Kyle Hale](https://www.halek.co) and [Dr. Stefan Muller](http://cs.iit.edu/~smuller/). I recieved my Masters of Science in Applied Cybersecurity and Digital Forensics from [Illinois Institute of Technology](https://www.iit.edu) in 2020 under the advisement of [Dr. Louis McHugh](https://www.linkedin.com/in/louismchugh/). During my undergraduate career, I recieved two Bachelor of Science degrees in Phyiscs and Applied Mathematics from [Texas State University](https://www.txstate.edu) in 2019 where I worked under [Dr. Blagoy Rangelov](https://blagoyrangelov.com) and [Dr. Gerald Cleaver](https://en.wikipedia.org/wiki/Gerald_B._Cleaver).   
+I am currently working on my PhD in Computer Science where I am investigating a variety of reserach topics ranging from security, operating systems, and theory. I recieved my Masters of Science in Computer Science from [Illinois Institute of Technology](https://www.iit.edu), where I am being advised by [Dr. Kyle Hale](https://www.halek.co) and [Dr. Stefan Muller](http://cs.iit.edu/~smuller/). I recieved my Masters of Science in Applied Cybersecurity and Digital Forensics from [Illinois Institute of Technology](https://www.iit.edu) in 2020 under the advisement of [Dr. Louis McHugh](https://www.linkedin.com/in/louismchugh/). During my undergraduate career, I recieved two Bachelor of Science degrees in Phyiscs and Applied Mathematics from [Texas State University](https://www.txstate.edu) in 2019 where I worked under [Dr. Blagoy Rangelov](https://blagoyrangelov.com) and [Dr. Gerald Cleaver](https://en.wikipedia.org/wiki/Gerald_B._Cleaver).   
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

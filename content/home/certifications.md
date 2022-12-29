@@ -1,4 +1,4 @@
----
+<!---
 widget: accomplishments
 headless: true 
 title: Certifications
@@ -55,4 +55,4 @@ item:
       date_start: '2020-06-23'
       date_end: ''
       description: Online course for non-credit offered through Saint Petersburg State University on Coursera that focused in the theory of quanutm computing as well as the utilization of IBM's qiskit software.
----
+--->

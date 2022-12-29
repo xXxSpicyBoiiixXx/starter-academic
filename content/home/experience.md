@@ -28,8 +28,15 @@ experience:
     location: Chicago, Illinois
     date_start: '2022-08-08'
     date_end: ''
-    description: Working under Dr. Rich Perez in terms of GRC policy and pentesting engagements that range from healthcare, educational systems, and financial institutions. This includes to consult, intergrate, and operate from a cybersecurity standpoint. 
-  - title: Research Aide 
+    description: Client engagements regarding GRC policy and pentesting engagements that range from healthcare, educational systems, and financial institutions. Conduct GRC guidelines according to frameworks such as NIST and conducting annual SRAs for various clients. Pentesting engagements include from wide variety of clients, utilizing BlackArch Linux to pentest servers, machines, and devices across external, internal, and web applications. This includes to consult, intergrate, and operate from a cybersecurity standpoint.
+   - title: Cybersecurity Instructor
+    company: ThriveDX
+    company_url: https://www.thrivedx.com
+    location: Chicago, Illinois
+    date_start: '2022-11-01'
+    date_end: ''
+    description: Highly interactive teaching environment regarding security techniques andinformation systems controls to secure an enterprise infrastructure. This role required to be knowledgeable with basic cyber security principles. Remote cybersecurity instructor with varying courses such as ethical hacking, game theory, network security, python course, linux security, cloud security, and digital forensics incident response. Familiar with common security measures such as network access control, device control, whitening solutions, mail relay, endpoint protection solutions, IR/DR, and social engineering.
+   - title: Research Aide 
     company: Argonne National Laboratory
     company_url: https://www.anl.gov
     location: Lemont, Illinois
