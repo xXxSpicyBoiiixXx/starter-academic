@@ -28,7 +28,7 @@ experience:
     location: Chicago, Illinois
     date_start: '2023-08-01'
     date_end: ''
-    descrition: As an adjunct professor in the Department of Computer Science, my primary responsibility is to design and teach undergraduate and graduate courses that enhance students' programming skills. I leverage my expertise in computer science to develop comprehensive curricula that engage students in a variety of programming languages and techniques. In addition to classroom instruction, I also provide one-on-one mentorship and guidance to students, helping them to identify and overcome challenges in their coursework. Overall, I am committed to fostering a collaborative and supportive learning environment that equips students with the technical skills and critical thinking abilities they need to succeed in their future careers.
+    description: As an adjunct professor in the Department of Computer Science, my primary responsibility is to design and teach undergraduate and graduate courses that enhance students' programming skills. I leverage my expertise in computer science to develop comprehensive curricula that engage students in a variety of programming languages and techniques. In addition to classroom instruction, I also provide one-on-one mentorship and guidance to students, helping them to identify and overcome challenges in their coursework. Overall, I am committed to fostering a collaborative and supportive learning environment that equips students with the technical skills and critical thinking abilities they need to succeed in their future careers.
   - title: Cybersecurity Consultant 
     company: Burwood Group 
     company_url: https://www.burwood.com
