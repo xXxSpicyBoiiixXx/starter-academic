@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mali54@hawk.iit.edu"
+email = "mdhaliev@gmail.com"
 phone = "+1 312.882.5544"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "10 W 35th St", city = "Chicago", region = "IL", postcode = "60616", country = "United States", country_code = "US"}
+address = {street = "200 N LaSalle St", city = "Chicago", region = "IL", postcode = "60601", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
