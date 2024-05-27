@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Adjunct Professor
-    comapny: Illinois Institute of Technology
-    company_url: https://iit.edu
+    company: Illinois Institute of Technology
+    company_url: https://www.iit.edu
     location: Chicago, Illinois
     date_start: '2023-08-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
     location: Chicago, Illinois
     date_start: '2022-08-08'
     date_end: ''
-    description: Client engagements regarding GRC policy and pentesting engagements that range from healthcare, educational systems, and financial institutions. Conduct GRC guidelines according to frameworks such as NIST and conducting annual SRAs for various clients. Pentesting engagements include from wide variety of clients, utilizing BlackArch Linux to pentest servers, machines, and devices across external, internal, and web applications. This includes to consult, intergrate, and operate from a cybersecurity standpoint. 
+    description: As a dedicated Cybersecurity Consultant specializing in penetration testing, I serve a diverse client base across healthcare, education, and finance sectors. My expertise centers on conducting detailed penetration tests across servers, machines, and various devices, including external, internal, and web applications. This proactive approach helps uncover vulnerabilities, ensuring robust security solutions are in place. In addition to my pen-testing focus, I guide organizations in adhering to GRC policies, crafting standards and frameworks based on NIST, HIPAA, and PCI to safeguard privacy and security. I oversee annual Security Risk Assessments (SRAs) to mitigate potential risks and maintain the highest level of protection. My role involves consulting on, operating, and integrating cybersecurity measures, ensuring the safety and security of our clients' domains, thus allowing them to focus on their core business with peace of mind.
   - title: Cybersecurity Instructor
     company: ThriveDX
     company_url: https://www.thrivedx.com
@@ -43,6 +43,13 @@ experience:
     date_start: '2022-11-01'
     date_end: ''
     description: Highly interactive teaching environment regarding security techniques andinformation systems controls to secure an enterprise infrastructure. This role required to be knowledgeable with basic cyber security principles. Remote cybersecurity instructor with varying courses such as ethical hacking, game theory, network security, python course, linux security, cloud security, and digital forensics incident response. Familiar with common security measures such as network access control, device control, whitening solutions, mail relay, endpoint protection solutions, IR/DR, and social engineering.
+  - title: Adjuct Professor
+    company: Saint Louis University
+    company_url: https://www.slu.edu
+    location: Saint Louis, Missouri
+    date_start: '2024-01-01'
+    date_end: '2024-05-01'
+    description: As an adjunct professor at the School for Professional Studies, my focus is on teaching a range of courses within the Computer Information Systems curriculum, with a particular emphasis on Cybersecurity. My students come from all corners of the world, including the greater Saint Louis Area, and all instruction is delivered virtually.
   - title: Research Aide 
     company: Argonne National Laboratory
     company_url: https://www.anl.gov
