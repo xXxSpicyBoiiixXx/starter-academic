@@ -18,9 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Operating Systems 
+- Operating Systems
 - Systems Security
-- Theoretical Physics 
+- Theoretical Physics
 - Theoretical Computer Science
 - Quantum Computing 
 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Computer Science
     institution: Capitol Technology University
-    year: Pursuing
+    year: 2025
   - course: Master of Applied Science in Computer Science 
     institution: Illinois Insititute of Technology
     year: 2022
@@ -48,9 +48,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'md.ali@burwood.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/xXxSpicyBoixXx
 - icon: researchgate  # Alternatively, use `researchgate` icon from `ai` icon pack
   icon_pack: ai
   link: https://www.researchgate.net/profile/Md_Ali222
@@ -74,16 +71,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a dedicated Cybersecurity Consultant at Burwood Group Inc., with a primary focus on conducting penetration testing engagements across diverse sectors, including healthcare, education, and financial institutions. Specializing in offensive security techniques and defensive operations, I thrive on uncovering vulnerabilities within systems and networks to fortify our clients' defenses against cyber threats.
+I am a Cybersecurity Consultant at Burwood Group Inc., specializing in penetration testing and Governance, Risk, and Compliance (GRC) across industries such as healthcare, education, and finance. With extensive experience conducting security risk assessments, vulnerability analysis, and compliance audits, I help organizations strengthen their security postures while ensuring regulatory adherence.
 
-In addition to my expertise in penetration testing, I am deeply committed to implementing Governance, Risk, and Compliance (GRC) practices. By integrating GRC principles into our security strategies, I ensure that our clients not only identify vulnerabilities but also establish robust governance frameworks to mitigate risks effectively and maintain compliance with regulatory standards and industry best practices.
+Beyond consulting, I am an educator and mentor committed to shaping the next generation of cybersecurity professionals. As Cybersecurity Faculty & Program Coordinator at Olive-Harvey College, I design and lead hands-on, industry-aligned training programs that equip students with practical skills for real-world security challenges. Additionally, I serve as an instructor at ThriveDX and have held adjunct professor roles at Illinois Institute of Technology and Saint Louis University, teaching topics from ethical hacking to digital forensics.
 
-Beyond my professional role, I am passionate about sharing my cybersecurity expertise. As a part-time instructor at ThriveDX, I have the privilege of imparting knowledge to others, helping them navigate the evolving landscape of cybersecurity. Additionally, serving as an adjunct professor at both Illinois Institute of Technology and Saint Louis University has deepened my understanding of technology while mentoring undergraduate and graduate students.
+My academic background includes dual Master’s degrees in Computer Science and Applied Cybersecurity & Digital Forensics from the Illinois Institute of Technology, as well as Bachelor’s degrees in Physics and Applied Mathematics from Texas State University. Currently, I am a PhD Candidate in Computer Science (expected May 2025) at Capitol Technology University, where my research focuses on the intersection of Artificial Intelligence and Cybersecurity, exploring AI-driven threat detection, adversarial machine learning, and automation in offensive security.
 
-Education has been a cornerstone of my journey. I hold dual Master's degrees from the Illinois Institute of Technology, one in Computer Science and the other in Applied Cybersecurity and Digital Forensics. My academic pursuits were guided by esteemed mentors, shaping my understanding of cybersecurity intricacies. Prior to this, I earned Bachelor of Science degrees in Physics and Applied Mathematics from Texas State University, where I honed my analytical skills under the guidance of respected professors.
+Outside of cybersecurity, I am a passionate language learner and musician. Fluent in English, Russian, and Bengali, with working proficiency in Tagalog and ongoing studies in Chinese, I thrive on continuous learning. Music has been a lifelong passion, with expertise in violin, bass guitar, and piano.
 
-My diverse educational background, coupled with extensive hands-on experience in cybersecurity, positions me as a valuable asset to any organization. I am driven by a constant pursuit of knowledge and am currently undertaking PhD endeavors to deepen my expertise further.
-
-Outside of the professional realm, I am an avid language learner and musician. Fluent in English, Russian, and Bengali, I am currently expanding my linguistic horizons by studying Chinese and Tagalog. Music is my sanctuary, with over a decade of experience playing the violin, six years mastering the bass guitar, and exploring the intricacies of piano.
-
+With a blend of technical expertise, academic leadership, and hands-on experience, I bring a strategic and well-rounded perspective to cybersecurity, AI research, and education.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
