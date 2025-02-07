@@ -73,11 +73,12 @@ highlight_name: false
 ---
 I am a Cybersecurity Consultant at Burwood Group Inc., specializing in penetration testing and Governance, Risk, and Compliance (GRC) across industries such as healthcare, education, and finance. With extensive experience conducting security risk assessments, vulnerability analysis, and compliance audits, I help organizations strengthen their security postures while ensuring regulatory adherence.
 
-Beyond consulting, I am an educator and mentor committed to shaping the next generation of cybersecurity professionals. As Cybersecurity Faculty & Program Coordinator at Olive-Harvey College, I design and lead hands-on, industry-aligned training programs that equip students with practical skills for real-world security challenges. Additionally, I serve as an instructor at ThriveDX and have held adjunct professor roles at Illinois Institute of Technology and Saint Louis University, teaching topics from ethical hacking to digital forensics.
+Beyond consulting, I am an educator and mentor committed to shaping the next generation of cybersecurity professionals. As a Cybersecurity Faculty & Program Coordinator at Olive-Harvey College, I design and lead hands-on, industry-aligned training programs that equip students with practical skills for real-world security challenges. Additionally, I serve as an instructor at ThriveDX and have held adjunct professor roles at Illinois Institute of Technology and Saint Louis University, teaching topics from ethical hacking to digital forensics.
 
 My academic background includes dual Master’s degrees in Computer Science and Applied Cybersecurity & Digital Forensics from the Illinois Institute of Technology, as well as Bachelor’s degrees in Physics and Applied Mathematics from Texas State University. Currently, I am a PhD Candidate in Computer Science (expected May 2025) at Capitol Technology University, where my research focuses on the intersection of Artificial Intelligence and Cybersecurity, exploring AI-driven threat detection, adversarial machine learning, and automation in offensive security.
 
 Outside of cybersecurity, I am a passionate language learner and musician. Fluent in English, Russian, and Bengali, with working proficiency in Tagalog and ongoing studies in Chinese, I thrive on continuous learning. Music has been a lifelong passion, with expertise in violin, bass guitar, and piano.
 
 With a blend of technical expertise, academic leadership, and hands-on experience, I bring a strategic and well-rounded perspective to cybersecurity, AI research, and education.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
