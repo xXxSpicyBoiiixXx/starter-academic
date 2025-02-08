@@ -23,6 +23,13 @@ show_more: true
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Professor & Program Coordinator
+    company: Olive-Harvey College
+    company_url: https://www.ccc.edu/olive-harvey/home/
+    location: Chicago, Illinois
+    date_start: '2024-08-01'
+    date_end: ''
+    description: As a cybersecurity faculty member at Olive-Harvey College, I teach courses in ethical hacking, penetration testing, and cybersecurity fundamentals, equipping students with hands-on experience and industry-relevant skills. I integrate platforms like HackTheBox Academy to provide interactive labs and real-world cybersecurity challenges, helping students bridge the gap between theory and practice. Beyond the classroom, I contribute to curriculum development and mentor students pursuing careers in cybersecurity, emphasizing critical thinking, ethical hacking principles, and industry best practices. My goal is to prepare the next generation of cybersecurity professionals with the knowledge and skills they need to succeed in this evolving field.
   - title: Adjunct Professor
     company: Illinois Institute of Technology
     company_url: https://www.iit.edu
